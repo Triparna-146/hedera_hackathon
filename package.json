@@ -1,0 +1,16 @@
+{
+  "name": "hedera-certificate-issuance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shail-26 <22cs035@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.60.1",
+    "axios": "^1.8.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ipfs-http-client": "^60.0.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
