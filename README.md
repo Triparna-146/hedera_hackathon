@@ -71,10 +71,9 @@ npm run dev
 ## 👥 Contributors
 - **Shail** (Lead Developer)
 - **Triparna Kar** (Backend & Selective Disclosure)
-- **Ayush Mistri** (UI/UX & Wireframes)
+- **Dhruvin Parmar** (Frontend & Documentation)
+- **Amit Kumar** (Frontend)
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 🤝 Contributing
 1. Fork the repository.
